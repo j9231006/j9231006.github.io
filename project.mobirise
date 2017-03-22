@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "hsichu.html",
+    "currentPage": "information.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -512,11 +512,11 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/30752218515-477fb41ebb-k-2000x1333.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
